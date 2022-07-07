@@ -7,5 +7,7 @@ public class text {
 
         System.out.println("ben yazdim");
 
+        System.out.println("yeni eklenen");
+
     }
 }
